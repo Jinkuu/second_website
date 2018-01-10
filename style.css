@@ -1,0 +1,18 @@
+body {
+  color: #444;
+  line-height: 1.6;
+  font-size: 17px;
+  padding: 0 10px;
+  margin: 30px auto;
+  max-width: 650px;
+  background-color: #fcfaf5;
+}
+
+h1, h2 {
+  line-height: 1.2;
+}
+
+h1 span {
+  font-style: italic;
+}
+
